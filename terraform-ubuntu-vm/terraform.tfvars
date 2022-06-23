@@ -1,0 +1,8 @@
+resource_group_name         = "my_terraform_rg"
+resource_group_location     = "West Europe"
+virtual_network_name        = "vnetdev2306"
+subnet_name                 = "subnetdev2306"
+public_ip_name              = "publicipdev2306"
+network_security_group_name = "nsgdev2306"
+network_interface_name      = "nicdev2306"
+linux_virtual_machine_name  = "linuxvm2306"
